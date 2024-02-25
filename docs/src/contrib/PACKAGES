@@ -6,3 +6,12 @@ Suggests: git2r, knitr, rmarkdown
 License: GPL (>= 2)
 MD5sum: 2e7107c8bc567c3e7d1aedbd7aaeb396
 NeedsCompilation: no
+
+Package: odeintr
+Version: 1.7.1
+Imports: Rcpp (>= 0.10.0)
+LinkingTo: Rcpp, BH
+Suggests: testthat, BH
+License: GPL (>= 2)
+MD5sum: c8e165c0f6b6b8fecde9736f2ffedb9e
+NeedsCompilation: yes
